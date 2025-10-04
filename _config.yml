@@ -1,7 +1,7 @@
 title: Ted Martin's Blog
 email: etmartinkazoo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a father, husband, business owner and software developer.
+  I am a father, husband, business owner and software developer. Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: happyrubyist
