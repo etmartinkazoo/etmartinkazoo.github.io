@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Spotify"
+date:   2024-12-27
+---
+I like Spotify; it is a nice service and I am happy to pay them a reasonable price to listen to music.
+
+That said, why the insane amount of trackers? Why the documented dark patterns of data selling and psychology mapping?
+
+I get ads; that is what makes so much of the internet "free". However, if you pay for a service, you should have, at a minimum, the ability to turn off all tracking/data collection and sale.
+
+I guess I will go back to listening to YouTube channels with nearly 70 trackers disabled...
+
+![Spotify is tracking you... a LOT](/assets/spotify-block.png)
+
